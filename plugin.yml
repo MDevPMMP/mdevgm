@@ -1,0 +1,10 @@
+name: MDevGM
+main: MDevGM\Main
+author: Marlon
+version: 1.0.0
+api: [3.0.0]
+commands:
+  gm1:
+    description: Set your gamemode to creative
+  gm0:
+    description: Set your gamemode to survival
